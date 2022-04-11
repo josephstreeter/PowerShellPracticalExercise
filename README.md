@@ -1,6 +1,7 @@
 # PowerShell Practical Exercise
 
 The following practical exercise is intended to assess your level of knowledge and proficiency in the use of PowerShell. There is not a “correct” answer to this exercise, but rather your response will be used to evaluate your current level of skill in the use of PowerShell as a tool. If you do not have any experience with PowerShell, that is ok too. 
+
 During the interview you will be asked to explain solution that you submitted. Be prepared to explain both what improvements you made and why you made them.
 
 ## Steps:
