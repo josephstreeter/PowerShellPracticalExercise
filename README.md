@@ -5,14 +5,14 @@ During the interview you will be asked to explain solution that you submitted. B
 
 ## Steps:
 1.	Download the PowerShell script from the following Github location:
---	https://github.com/<repo for applicant>
+  -	https://github.com/<repo for applicant>
 2.	Review the code and make changes to implement the following features:
---	Readability – Rewrite the script that is more readable
---	Error correction – The script should handle errors gracefully and return useful errors
---	Functions – Separate the script into function to eliminate the rewriting of code
---	Output – Create either a CSV or XML file that contains the results of the script – the name of the file should include the year, month, date, hour, and minute that the file was created
+  -	Readability – Rewrite the script that is more readable
+  -	Error correction – The script should handle errors gracefully and return useful errors
+  -	Functions – Separate the script into function to eliminate the rewriting of code
+  -	Output – Create either a CSV or XML file that contains the results of the script – the name of the file should include the year, month, date, hour, and minute that the file was created
 
 ## Bonus points:
---	Clone the repository, create a new branch, and submit a Pull Request with your updated code
---	Write the script as a PowerShell module
+  -	Clone the repository, create a new branch, and submit a Pull Request with your updated code
+  -	Write the script as a PowerShell module
 
