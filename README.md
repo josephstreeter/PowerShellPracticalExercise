@@ -6,7 +6,7 @@ During the interview you will be asked to explain solution that you submitted. B
 
 ## Steps:
 1.	Download the PowerShell script from the following Github location:
-  -	https://github.com/<repo for applicant>
+  -	https://github.com/--repo name--\PowerShellPracticalExercise
 2.	Review the code and make changes to implement the following features:
   -	Readability – Rewrite the script that is more readable
   -	Error correction – The script should handle errors gracefully and return useful errors
