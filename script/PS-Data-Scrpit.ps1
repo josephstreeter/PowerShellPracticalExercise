@@ -1,4 +1,4 @@
-$data=(Get-Content .\SeriesReport-20220410163154_54276e.csv | ConvertFrom-Csv)
+$data=(Get-Content .\Data\SeriesReport-20220410163154_54276e.csv | ConvertFrom-Csv)
 
 $results=@()
 
