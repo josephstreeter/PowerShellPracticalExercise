@@ -11,9 +11,9 @@ During the interview you will be asked to explain solution that you submitted. B
   -	Readability – Rewrite the script that is more readable
   -	Error correction – The script should handle errors gracefully and return useful errors
   -	Functions – Separate the script into function to eliminate the rewriting of code
-  -	Output – Create either a CSV or XML file that contains the results of the script – the name of the file should include the year, month, date, hour, and minute that the file was created
+  -	Output – Create either a CSV file that contains the results of the script – the name of the file should include the year, month, date, hour, and minute that the file was created (Example: 2022-04-11-12-01-Data.xml)
 
 ## Bonus points:
   -	Clone the repository, create a new branch, and submit a Pull Request with your updated code
   -	Write the script as a PowerShell module
-
+  - Output the data to an XML file instead of CSV
